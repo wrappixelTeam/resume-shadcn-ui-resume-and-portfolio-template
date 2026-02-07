@@ -1,5 +1,5 @@
 
-# 📄 Resume – Next.js Personal Resume & Portfolio Template
+# 📄 Resume - Shadcn UI Resume and Portfolio Template
 
 **Resume** is a **free, open-source, and production-ready resume / portfolio template** built with **Next.js, Tailwind CSS, and shadcn/ui**.
 
